@@ -14,11 +14,11 @@ Users can restart their days by clearning whats in the localStorage and adding m
 
 ### Color Coded
 
-Grey means that the time has already passed.
+<em>Grey</em> means that the time has already passed.
 
-Red means it is the current hour.
+<em>Red</em> means it is the current hour.
 
-Green means they are upcoming hours. 
+<em>Green</em> means they are upcoming hours. 
 
 #### URL
 https://derekbeckford.github.io/my-workday-planner/
